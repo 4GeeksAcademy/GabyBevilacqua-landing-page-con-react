@@ -1,0 +1,22 @@
+/* const cardInfo= [
+    {
+    image:""
+    title:""
+    texto:""
+},
+{
+    image:""
+    title:""
+    texto:""
+},
+{
+    image:""
+    title:""
+    texto:""
+},
+{
+    image:""
+    title:""
+    texto:""
+}
+];*/

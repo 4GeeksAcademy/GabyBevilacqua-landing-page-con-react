@@ -10,3 +10,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+.cardsContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+body {
+    background-color: rgb(136, 125, 125);
+}
